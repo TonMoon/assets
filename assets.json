@@ -1,5 +1,11 @@
 [
   {
+    "address": "ton",
+    "symbol": "TON",
+    "name": "TON",
+    "image": "https://ton.org/download/ton_symbol.png"
+  },
+  {
     "address": "EQBlqsm144Dq6SjbPI4jjZvA1hqTIP3CvHovbIfW_t-SCALE",
     "symbol": "SCALE",
     "name": "Scaleton",
